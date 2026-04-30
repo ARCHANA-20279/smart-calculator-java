@@ -57,6 +57,10 @@ It provides a user-friendly interface along with accessibility features like voi
 * Implementing error handling
 * Adding accessibility features like voice output
 
+## 📸 Screenshots
+
+![Calculator](image.png)
+
 ---
 
 ## 👩‍💻 Author
